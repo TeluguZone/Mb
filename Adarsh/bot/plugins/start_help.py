@@ -29,9 +29,9 @@ async def start(b, m):
             caption="**ʜᴇʟʟᴏ...⚡\n\nɪᴀᴍ ᴀ sɪᴍᴘʟᴇ ᴛᴇʟᴇɢʀᴀᴍ ғɪʟᴇ/ᴠɪᴅᴇᴏ ᴛᴏ ᴘᴇʀᴍᴀɴᴇɴᴛ ʟɪɴᴋ ᴀɴᴅ sᴛʀᴇᴀᴍ ʟɪɴᴋ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ.**\n\n**ᴜsᴇ /help ғᴏʀ ᴍᴏʀᴇ ᴅᴇᴛsɪʟs\n\nsᴇɴᴅ ᴍᴇ ᴀɴʏ ᴠɪᴅᴇᴏ / ғɪʟᴇ ᴛᴏ sᴇᴇ ᴍʏ ᴘᴏᴡᴇʀᴢ...**",
             reply_markup=InlineKeyboardMarkup(
                 [
-                    [InlineKeyboardButton("⚡ UPDATES ⚡", url="https://t.me/TeluguZone0"), InlineKeyboardButton("⚡ SUPPORT ⚡", url="https://t.me/+y3URnRGyizQ3MmM1")],
+                    [InlineKeyboardButton("⚡ UPDATES ⚡", url="https://t.me/TeluguZone0")], InlineKeyboardButton("⚡ SUPPORT ⚡", url="https://t.me/+y3URnRGyizQ3MmM1")],
                     [InlineKeyboardButton("OWNER", url="https://t.me/Daemon990"), InlineKeyboardButton("💠 DEVELOPER", url="https://t.me/Daemon990")],
-                    [InlineKeyboardButton("💌 SUBSCRIBE 💌", url="https://t.me/TeluguZone0")]
+                    [InlineKeyboardButton("💌 BACKUP CHANNEL 💌", url="https://t.me/TeluguZone0")]
                 ]
             ),
             
@@ -87,7 +87,7 @@ async def help_handler(bot, message):
                 [
                     [InlineKeyboardButton("⚡ UPDATES ⚡", url="https://t.me/TeluguZone0"), InlineKeyboardButton("⚡ SUPPORT ⚡", url="https://t.me/+y3URnRGyizQ3MmM1")],
                     [InlineKeyboardButton("OWNER", url="https://t.me/Daemon990"), InlineKeyboardButton("💠 DEVELOPER", url="https://t.me/Daemon990")],
-                    [InlineKeyboardButton("💌 SUBSCRIBE 💌", url="https://t.me/TeluguZone0")]
+                    [InlineKeyboardButton("💌 BACKUP CHANNEL 💌", url="https://t.me/TeluguZone0")]
                 ]
             ),
             
@@ -108,12 +108,12 @@ async def about_handler(bot, message):
 <b>╭━━━━━━━〔ғɪʟᴇ ᴛᴏ ʟɪɴᴋ ʙᴏᴛ〕</b>
 ┃
 ┣⪼<b>ʙᴏᴛ ɴᴀᴍᴇ : ғɪʟᴇ ᴛᴏ ʟɪɴᴋ
-┣⪼<b>ᴜᴘᴅᴀᴛᴇᴢ : <a href='https://t.me/TeluguZone0'>jeol botz</a></b>
-┣⪼<b>sᴜᴘᴘᴏʀᴛ : <a href='https://t.me/+y3URnRGyizQ3MmM1'>jeol support</a></b>
+┣⪼<b>ᴜᴘᴅᴀᴛᴇᴢ : <a href='https://t.me/TeluguZone0'>TeluguZone </a></b>
+┣⪼<b>sᴜᴘᴘᴏʀᴛ : <a href='https://t.me/+y3URnRGyizQ3MmM1'>TeluguZone</a></b>
 ┣⪼<b>sᴇʀᴠᴇʀ : ʜᴇʀᴜᴋᴏ</b>
 ┣⪼<b>ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ</b>
 ┣⪼<b>ʟᴀɴɢᴜᴀɢᴇ: ᴘʏᴛʜᴏɴ 3</b>
-┣⪼<b>ʏᴏᴜᴛᴜʙᴇ : <a href='https://t.me/TeluguZone0'>Jeol botz</a></b>
+┣⪼<b>ʏᴏᴜᴛᴜʙᴇ : <a href='https://t.me/TeluguZone0'>TeluguZone</a></b>
 ┃
 <b>╰━━━━━━━〔ᴘʟᴇᴀsʀ sᴜᴘᴘᴏʀᴛ〕</b>""",
   
@@ -122,7 +122,7 @@ async def about_handler(bot, message):
                 [
                     [InlineKeyboardButton("⚡ UPDATES ⚡", url="https://t.me/TeluguZone0"), InlineKeyboardButton("⚡ SUPPORT ⚡", url="https://t.me/+y3URnRGyizQ3MmM1")],
                     [InlineKeyboardButton("OWNER", url="https://t.me/Daemon990"), InlineKeyboardButton("💠 DEVELOPER", url="https://t.me/Daemon990")],
-                    [InlineKeyboardButton("💌 SUBSCRIBE 💌", url="https://t.me/TeluguZone0")]
+                    [InlineKeyboardButton("💌 BACKUP CHANNEL 💌", url="https://t.me/TeluguZone0")]
                 ]
             ),
             
